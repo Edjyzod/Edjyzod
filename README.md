@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Edjyzod
 - 👀 I’m interested in coding (python)
 - 🌱 I’m currently learning to learn
-- 💞️ I’m looking to collaborate on thursday
 
 <!---
 Edjyzod/Edjyzod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
